@@ -14,9 +14,9 @@
 /* sections */
 
     html {
-        font-size: 1rem;
+        font-size: .7rem;
     }
-    
+
     footer {
         justify-content: space-around;
         height: 60vh;
