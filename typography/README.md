@@ -3,7 +3,9 @@
 ## Demo site
 Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for preview.
 ## Dependecies
-empty
+``` 
+<link rel="stylesheet" href="./style/normalize.css">
+``` 
 ## Implementation
 ``` 
     <meta charset="UTF-8">
