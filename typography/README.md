@@ -34,7 +34,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
         <div class="wrapper">
             <h1>1st heading</h1>
             <ul class="post-info">
-                <li> Author: <span>Lorem ipsum</span></li>
+                <li>Author: <span>Lorem ipsum</span></li>
                 <li>Date: <span>DD. MM. YYYY</span></li>
             </ul>
             <figure>
@@ -51,7 +51,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
      </article>
 </main>
 ```
-
+There is also ```.post-info``` **class** which can be used for ***author name*** or ***date*** of posting the article.
 ## Components
 
 ### Header 
