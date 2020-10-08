@@ -23,14 +23,14 @@ This library is recommended for a blog posts pages use. CSS files are primarly b
 - ol/ul, li
 - blockquote
 - p, a
-- h1 (**not** part of article), h2, h3, h4, h5, h6
+- h1 (**not** part of an article), h2, h3, h4, h5, h6
 
 
 There are also some components which can be initialized by classes - e.g. ``` .wrapper ```. To ``` .wrapper ``` class is assigneted a certain **max-width** that gives "natural" margin to whole page. The ``` .wrapper ``` should be applied on ``` <div> ``` tag, with the following structure: 
 
 ``` 
 <main>
-        <div class="wrapper">
+        **<div class="wrapper">**
             <h1>1st heading</h1>
             <ul class="post-info">
                 <li> Author: <span>Lorem ipsum</span></li>
