@@ -79,17 +79,19 @@ If you want, you can even use the ```<header> ``` section with the following ```
 ``` 
 
 ### Lists 
-
+``` 
  <ul>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
 </ul>
-
+``` 
+``` 
 <ol>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
 </ol>
+``` 
