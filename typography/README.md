@@ -20,7 +20,7 @@ Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for prev
 ``` 
 ## Usage
 This library is recommended for a blog posts pages use. CSS files are primarly based on styling HMTL tags such as ```<article>```,  ```<h1>, <h2>``` etc.:
-- ol/li
+- ol/ul, li
 - blockquote
 - p, a
 - h1 (not part of article), h2, h3, h4, h5, h6
