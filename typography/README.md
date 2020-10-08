@@ -3,20 +3,24 @@
 ## Demo site
 Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for preview.
 ## Dependecies
-empty
+``` 
+<link rel="stylesheet" href="./style/normalize.css">
+``` 
 ## Implementation
 ``` 
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style/style.css">
     <link rel="stylesheet" href="./style/typhography.css">
     <link rel="stylesheet" href="./style/queries.css">
+    <link rel="stylesheet" href="./style/normalize.css">
     <title>CCS typografická knihovna</title>
 </head>
 ``` 
-
 ## Usage
-...
+Recommended for blog posts pages use. CSS files are primarly based on styling HMTL tags such as ``` <article> ``` 
+
 ## Components
 ### First
 ### Second
