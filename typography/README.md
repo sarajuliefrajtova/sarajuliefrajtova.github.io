@@ -51,5 +51,20 @@ There are also some components which can be initialized by classes - e.g. ``` .w
 ```
 
 ## Components
+
+### Header 
+You can even use the ```<header> ``` section with the following ```.nav-bar```  
+``` 
+ <header>
+        <nav class="nav-bar">
+            <ul>
+                <li><a href="#">Logo</a></li>
+                <li><a href="#">2nd item</a></li>
+                <li><a href="#">3rd item</a></li>
+            </ul>
+        </nav>
+    </header>
+``` 
+
 ### First
 ### Second
