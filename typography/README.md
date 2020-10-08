@@ -30,7 +30,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
 
 ``` 
 <main>
-        **<div class="wrapper">**
+        <div class="wrapper">
             <h1>1st heading</h1>
             <ul class="post-info">
                 <li> Author: <span>Lorem ipsum</span></li>
