@@ -19,7 +19,27 @@ Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for prev
 </head>
 ``` 
 ## Usage
-This library is recommended for blog posts pages use. CSS files are primarly based on styling HMTL tags such as ```<article>```,  ```<h1>, <h2>``` etc. There are also some components which can be initialized by classes - e.g. ``` .wrapper ```. To ``` .wrapper ``` class is assigneted a certain **max-width** that gives "natural" margin to whole page. The ``` .wrapper ``` should be applied on ``` <div> ``` tag. 
+This library is recommended for a blog posts pages use. CSS files are primarly based on styling HMTL tags such as ```<article>```,  ```<h1>, <h2>``` etc. There are also some components which can be initialized by classes - e.g. ``` .wrapper ```. To ``` .wrapper ``` class is assigneted a certain **max-width** that gives "natural" margin to whole page. The ``` .wrapper ``` should be applied on ``` <div> ``` tag, with the following structure: 
+
+``` 
+<main>
+        <div class="wrapper">
+            <h1>1st heading</h1>
+            <ul class="post-info">
+                <li> Author: <span>Lorem ipsum</span></li>
+                <li>Date: <span>DD. MM. YYYY</span></li>
+            </ul>
+            <figure>
+                <img src="https://via.placeholder.com/1000x500" alt="img" class="welcome-img">
+                <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit.</figcaption>
+            </figure>
+            <article>
+                <h2>2nd heading</h2>
+                .
+                .
+                .
+         </div>
+```
 
 ## Components
 ### First
