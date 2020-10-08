@@ -19,8 +19,52 @@ Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for prev
 </head>
 ``` 
 ## Usage
-Recommended for blog posts pages use. CSS files are primarly based on styling HMTL tags such as ``` <article> ``` 
+This library is recommended for a blog posts pages use. CSS files are primarly based on styling HMTL tags such as ```<section>```,  ```<h1>, <h2>``` etc.:
+- ol/ul, li
+- blockquote
+- p, a
+- h1 (**not** part of an section), h2, h3, h4, h5, h6
+
+
+There are also some components which can be initialized by classes - e.g. ``` .wrapper ```. To ``` .wrapper ``` class is assigneted a certain **max-width** that gives "natural" margin to whole page. The ``` .wrapper ``` should be applied on ``` <div> ``` tag, with the following structure: 
+
+``` 
+<main>
+        <div class="wrapper">
+            <h1>1st heading</h1>
+            <ul class="post-info">
+                <li> Author: <span>Lorem ipsum</span></li>
+                <li>Date: <span>DD. MM. YYYY</span></li>
+            </ul>
+            <figure>
+                <img src="https://via.placeholder.com/1000x500" alt="img" class="welcome-img">
+                <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit.</figcaption>
+            </figure>
+            <section>
+                <h2>2nd heading</h2>
+                .
+                .
+                .
+            </section>
+         </div>
+</main>
+```
 
 ## Components
-### First
+
+### Header 
+If you want, you can even use the ```<header> ``` section with the following ```.nav-bar``` class. 
+``` 
+ <header>
+        <nav class="nav-bar">
+            <ul>
+                <li><a href="#">Logo</a></li>
+                <li><a href="#">2nd item</a></li>
+                <li><a href="#">3rd item</a></li>
+            </ul>
+        </nav>
+    </header>
+``` 
+
+### 
 ### Second
