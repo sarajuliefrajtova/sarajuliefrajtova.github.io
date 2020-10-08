@@ -3,7 +3,7 @@
 ## Demo site
 Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for preview.
 ## Dependecies
--
+empty
 ## Implementation
 ``` 
     <meta charset="UTF-8">
