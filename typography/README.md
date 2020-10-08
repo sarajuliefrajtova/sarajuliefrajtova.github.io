@@ -30,6 +30,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
 
 ``` 
 <main>
+    <article>
         <div class="wrapper">
             <h1>1st heading</h1>
             <ul class="post-info">
@@ -47,6 +48,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
                 .
             </section>
          </div>
+      </article>
 </main>
 ```
 
