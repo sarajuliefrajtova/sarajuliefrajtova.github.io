@@ -14,12 +14,13 @@ Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for prev
     <link rel="stylesheet" href="./style/style.css">
     <link rel="stylesheet" href="./style/typhography.css">
     <link rel="stylesheet" href="./style/queries.css">
+    <link rel="stylesheet" href="./style/normalize.css">
     <title>CCS typografická knihovna</title>
 </head>
 ``` 
-
 ## Usage
-...
+Recommended for blog posts pages use. CSS files are primarly based on styling HMTL tags such as ``` <article> ``` 
+
 ## Components
 ### First
 ### Second
