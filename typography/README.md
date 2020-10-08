@@ -95,3 +95,10 @@ If you want, you can even use the ```<header> ``` section with the following ```
     <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
 </ol>
 ``` 
+### Images in a post
+``` 
+<figure>
+    <img src="#" alt="img" class="welcome-img">
+    <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit.</figcaption>
+</figure>
+``` 
