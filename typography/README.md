@@ -48,7 +48,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
                 .
             </section>
          </div>
-      </article>
+     </article>
 </main>
 ```
 
