@@ -68,19 +68,28 @@ If you want, you can even use the ```<header> ``` section with the following ```
     </header>
 ``` 
 
-### Section in an article 
+### Section, heading (***h2***) and paragraph in an article 
 ``` 
 <section>
     <h2>2nd heading</h2>
     <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ea debitis suscipit, quia pariatur
-                        reprehenderit nesciunt at quam adipisci nobis libero sapiente assumenda distinctio modi facilis,
-                        doloribus deleniti iusto qui. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere,
-                        alias
-                        cum? Magni quasi voluptatum velit modi consequatur, excepturi assumenda aliquam cum pariatur
-                        quidem,
-                        quo veritatis earum nulla officiis porro corporis!
-
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ea debitis suscipit, quia pariatur reprehenderit nesciunt at quam adipisci nobis libero                sapiente assumenda distinctio modi facilis, doloribus deleniti iusto qui. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, alias cum? Magni          quasi voluptatum velit modi consequatur, excepturi assumenda aliquam cum pariatur quidem, quo veritatis earum nulla officiis porro corporis!
     </p>
 </section>
-### Second
+``` 
+
+### Lists 
+
+ <ul>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+</ul>
+
+<ol>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+</ol>
