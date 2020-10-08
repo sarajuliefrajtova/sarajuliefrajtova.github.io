@@ -19,7 +19,7 @@ Link to **[demo](http://sarajuliefrajtova.github.io/typography/)** site for prev
 </head>
 ``` 
 ## Usage
-Recommended for blog posts pages use. CSS files are primarly based on styling HMTL tags such as ```<article>```,  ```<h1>, <h2>``` etc. There are also some components which can be initialized by classes - e.g. ```.wrapper``. 
+Recommended for blog posts pages use. CSS files are primarly based on styling HMTL tags such as ```<article>```,  ```<h1>, <h2>``` etc. There are also some components which can be initialized by classes - e.g. ```<wrapper>``. 
 
 ## Components
 ### First
