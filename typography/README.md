@@ -38,7 +38,9 @@ This library is recommended for a blog posts pages use. CSS files are primarly b
                 .
                 .
                 .
+            </article>
          </div>
+</main>
 ```
 
 ## Components
