@@ -102,3 +102,23 @@ If you want, you can even use the ```<header> ``` section with the following ```
     <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit.</figcaption>
 </figure>
 ``` 
+### Footer in a post
+``` 
+    </main>
+
+    <footer>
+
+        <ul>
+            <li><a href="#">INSTAGRAM</a></li>
+            <li><a href="#">FACEBOOK</a></li>
+            <li><a href="#">TWITTER</a></li>
+        </ul>
+
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus expedita nostrum reiciendis eaque
+            doloribus repellendus incidunt, eius vitae accusamus tenetur illo facere vel. Officiis maxime
+            exercitationem architecto laudantium aut repellendus.</p>
+    </footer>
+</body>
+
+</html>
+``` 
