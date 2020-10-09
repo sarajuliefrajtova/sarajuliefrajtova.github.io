@@ -34,7 +34,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
         <div class="wrapper">
             <h1>1st heading</h1>
             <ul class="post-info">
-                <li> Author: <span>Lorem ipsum</span></li>
+                <li>Author: <span>Lorem ipsum</span></li>
                 <li>Date: <span>DD. MM. YYYY</span></li>
             </ul>
             <figure>
@@ -51,7 +51,7 @@ There are also some components which can be initialized by classes - e.g. ``` .w
      </article>
 </main>
 ```
-
+There is also ```.post-info``` **class** which can be used for ***author name*** or ***date*** of posting the article.
 ## Components
 
 ### Header 
@@ -68,5 +68,57 @@ If you want, you can even use the ```<header> ``` section with the following ```
     </header>
 ``` 
 
-### 
-### Second
+### Section, heading (***h2***) and paragraph in an article 
+``` 
+<section>
+    <h2>2nd heading</h2>
+    <p>
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ea debitis suscipit, quia pariatur reprehenderit nesciunt at quam adipisci nobis libero                sapiente assumenda distinctio modi facilis, doloribus deleniti iusto qui. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, alias cum? Magni          quasi voluptatum velit modi consequatur, excepturi assumenda aliquam cum pariatur quidem, quo veritatis earum nulla officiis porro corporis!
+    </p>
+</section>
+``` 
+
+### Lists 
+``` 
+ <ul>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+</ul>
+``` 
+``` 
+<ol>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+</ol>
+``` 
+### Images in a post
+``` 
+<figure>
+    <img src="#" alt="img" class="welcome-img">
+    <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit.</figcaption>
+</figure>
+``` 
+### Footer in a post
+``` 
+    </main>
+
+    <footer>
+
+        <ul>
+            <li><a href="#">INSTAGRAM</a></li>
+            <li><a href="#">FACEBOOK</a></li>
+            <li><a href="#">TWITTER</a></li>
+        </ul>
+
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus expedita nostrum reiciendis eaque
+            doloribus repellendus incidunt, eius vitae accusamus tenetur illo facere vel. Officiis maxime
+            exercitationem architecto laudantium aut repellendus.</p>
+    </footer>
+</body>
+
+</html>
+``` 
