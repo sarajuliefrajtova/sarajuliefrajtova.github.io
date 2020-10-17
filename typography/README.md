@@ -57,7 +57,7 @@ There is also ```.post-info``` **class** which can be used for ***author name***
 ### Header 
 If you want, you can even use the ```<header> ``` section with the following ```.nav-bar``` class. 
 ``` 
- <header>
+ <header class="header">
         <nav class="nav-bar">
             <ul>
                 <li><a href="#">Logo</a></li>
